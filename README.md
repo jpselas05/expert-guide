@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40&center=true&vCenter=true&width=600&height=70&duration=8000&color=00BCD4&lines=print(Hello,+World!+👋);+I'm+Jotapê!" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40&center=true&vCenter=true&width=600&height=70&duration=5000&color=00BCD4&lines=Hello,+World!+👋;+I'm+Jotapê!" />
 
 ---
 
