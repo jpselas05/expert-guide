@@ -9,7 +9,7 @@ Currently a Computer Science undergraduate at UNIFOR, I'm deeply engaged with th
 
 ## 🎓 | Academic Background
 <p>
-   pursuing a Bachelor's degree in Computer Science at the <a href="https://unifor.br" target="_blank">University of Fortaleza (UNIFOR)</a>.
+   Pursuing a Bachelor's degree in Computer Science at the <a href="https://unifor.br" target="_blank">University of Fortaleza (UNIFOR)</a>.
 </p>
 
 ---
