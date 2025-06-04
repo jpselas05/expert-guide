@@ -1,62 +1,56 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40&center=true&vCenter=true&width=600&height=70&duration=4000&color=00BCD4&lines=Ol%C3%A1!+👋;+Eu+sou+o+Jotap%C3%AA!;Desenvolvedor+Backend+em+forma%C3%A7%C3%A3o..." />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40&center=true&vCenter=true&width=600&height=70&duration=8000&color=00BCD4&lines=print(Hello,+World!+👋);+I'm+Jotapê!" />
 
 ---
 
-## 📖 | Sobre Mim
-Sou um estudante de Ciências da Computação na UNIFOR, apaixonado por tecnologia e com foco no desenvolvimento backend utilizando Node.js e JavaScript. Estou sempre buscando aprender e aplicar novos conhecimentos para construir soluções eficientes e inovadoras.
+## 🚀 | My Journey So Far
+Currently a Computer Science undergraduate at UNIFOR, I'm deeply engaged with the world of technology, especially backend development with Node.js and JavaScript. My goal is to continuously learn and leverage new skills to create impactful and efficient software.
 
 ---
 
-## 📚 | Formação Acadêmica
+## 🎓 | Academic Background
 <p>
-  🎓 Cursando Ciências da Computação na <a href="https://unifor.br" target="_blank">Universidade de Fortaleza (UNIFOR)</a>.
+   pursuing a Bachelor's degree in Computer Science at the <a href="https://unifor.br" target="_blank">University of Fortaleza (UNIFOR)</a>.
 </p>
 
 ---
 
-## ⭐ | Estatísticas do GitHub
-Aqui estão algumas das minhas estatísticas no GitHub. Para que funcionem corretamente, substitua `SEU_USUARIO_GITHUB` pelo seu nome de usuário exato do GitHub nos links das imagens.
+## 📊 | GitHub Activity
+A glimpse into my coding activity and an overview of my most used languages on GitHub.
 
 <div align="center">
   <a href="https://github.com/jpselas05">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpselas05&layout=compact&langs_count=7&theme=dracula"/>
-    </a>
+  </a>
 </div>
 
 ---
 
-## 🛠️ | Tecnologias & Ferramentas
-Estas são algumas das tecnologias e ferramentas com as quais tenho trabalhado e estudado:
+## 💻 | My Tech Stack
+Here's a look at the main technologies and tools I'm currently working with:
 
 <table>
   <tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: top;">Backend:</td>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: top;">Server-side:</td>
     <td>
-      <img height="40" src="https://skillicons.dev/icons?i=nodejs,javascript,express" alt="Node.js, JavaScript, Express.js"/>
-      </td>
+      <img height="40" src="https://skillicons.dev/icons?i=nodejs,javascript" alt="Node.js, JavaScript"/>
+    </td>
   </tr>
   <tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: top;">Frontend:</td>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: top;">Client-side (JS Focus):</td>
     <td>
-      <img height="40" src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JavaScript"/>
-      </td>
+      <img height="40" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"/>
+    </td>
   </tr>
   <tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: top;">Banco de Dados:</td>
-    <td>
-      <img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" alt="MySQL, PostgreSQL, MongoDB"/>
-      </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: top;">Versionamento:</td>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: top;">Collaboration & Versioning:</td>
     <td>
       <img height="40" src="https://skillicons.dev/icons?i=git,github" alt="Git, GitHub"/>
     </td>
   </tr>
   <tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: top;">Estudando:</td>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: top;">Ongoing Exploration:</td>
     <td>
-      <p><em>Sempre em busca de novos conhecimentos!</em></p>
+      <p><em>Continuously exploring new technologies and sharpening my skillset!</em></p>
     </td>
   </tr>
 </table>
